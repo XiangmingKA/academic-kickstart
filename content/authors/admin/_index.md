@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Xiangming Ka
 
 # Username (this should match the folder name)
 authors:
@@ -10,58 +10,51 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Vice-Principal of Unreal Studio at UESTC
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Electronic Science and Technology of China
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research areas include Computer Graphics (Rendering), Game Development, Computer Vision, and Machine Learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Graphics (hard-core Rendering)
+- Game Development
+- Virtual Reality/Augmented Reality
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BE in Software Engineering (Digital Animation)
+    institution: University of Electronic Science and Technology of China
+    year: 2016.9-2020.6
+  - course: Exchange Program
+    institution: University of California, Santa Barbara
+    year: 2019.4-2019.6
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/XiangmingKA
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
+- icon: envelope
+  icon_pack: fas
+  link: mailto:kaxm0124@163.com
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "kaxm0124@163.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +63,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to Xiangming Ka's homepage!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a senior student who is majoring in Software Engineering at the University of Electronic Science and Technology of China (UESTC). Also, I am the vice-principle of the [Unreal Game Studio](http://www.ss.uestc.edu.cn/studio.do?id=491) at UESTC. My research fields include Computer Graphics (Rendering), Game Development, VR/AR, and Machine Learning. Besides the technological aspects, I am also interested in the artistic aspects of Visual Arts--Game Design, Game Culture, Filmmaking, and Photography.
